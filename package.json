@@ -1,0 +1,14 @@
+{
+  "name": "baxto-bot",
+  "version": "1.0.0",
+  "description": "Bot inteligente de WhatsApp para Baxto Tattoo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "openai": "^4.28.4",
+    "pino": "^8.0.0"
+  }
+}
